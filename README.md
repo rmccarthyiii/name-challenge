@@ -1,6 +1,6 @@
 # name-challenge
 
-[[http://gorandm.com/images/name-challenge.png|alt=laravel]]
+![alt text](http://gorandm.com/images/name-challenge.png)
 
 First attempt at setting up a Laravel/AngularJS project which is supposed to take a user inputted name and display it on a page + send a designated email.
 
